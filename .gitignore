@@ -1,0 +1,4 @@
+JwtAuth-backend/src/main/resources/application.properties
+JwtAuth-backend/target/
+JwtAuth-frontend/node_modules/
+JwtAuth-frontend/dist/
